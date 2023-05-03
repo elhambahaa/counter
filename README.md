@@ -14,7 +14,6 @@ To use the counter, simply open the `index.html` file in your web browser. You w
 
 ## Screenshots
 
-![Counter Example Screenshot](![screencapture-127-0-0-1-5500-index-html-2023-05-03-15_19_56](https://user-images.githubusercontent.com/125158993/235913859-e81fa64e-dcf3-4bc8-b7ab-624447e07134.png)
-)
+<img src="screencapture.png">
 
 
